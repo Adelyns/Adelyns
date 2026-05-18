@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adelyns
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Lua and C
+- 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
